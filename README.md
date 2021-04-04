@@ -3,7 +3,7 @@ Shell scripts to manipulate videos, depends on ffmpeg.
 
 Description of each script : 
 - video_concat.sh : concatenate several video to generate a single video
-- video_crop_region.sh : crop a region of the input video, depends on the slop program to dynamically get the region of interest defined by the user.
+- video_crop_region.sh : crop a region of the input video, depends on the slop program to dynamically get the region of interest.
 - video_extract_frame.sh : extract a single image frame
 - video_extract_frames.sh : extract each images frames 
 - video_gen.sh : generate a video from several images frames
